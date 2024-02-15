@@ -1,7 +1,6 @@
 # crm
-Complaint redressal system crm 
 
-Building a backend of a CRM application 
+Building a backend of a CRM application for a complaint redressal system
 	-  Building REST API's
 
 ## Backend : 
