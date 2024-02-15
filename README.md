@@ -6,13 +6,12 @@ Building a backend of a CRM application for a complaint redressal system
 ## Backend : 
 - Using Express framework ( It doesn't have a fixed structure )
 
-The given backend should be built in three different layers : 
- 1. Routes  - ( Receptionist )
- 2.  Controller - ( Waiter )
- 3. Model - ( )
- 4. Config Folder ( Properties whose values can change )
- 5. utils ( Reusable files )
-
+The given backend has been built in three different layers : 
+ 1. Routes  
+ 2.  Controller 
+ 3. Model 
+ 4. Config Folder 
+ 5. utils 
 ### CRM application : 
 - CRM application is a software solution which helps the company to achieve following things :
 	- Understand the user feedback 
