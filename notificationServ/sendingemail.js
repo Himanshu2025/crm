@@ -26,7 +26,7 @@ const transporter = nodemailer.createTransport({
 
 const mailObj = {
     from : 'crm-noreply@gmail.com',
-    to : 'hkul0004@student.monash.edu,himancoolkarni2000@gmail.com',
+    to : ' *******, himancoolkarni2000@gmail.com',
     subject: "Testing code - for sending email",
     text: "Sample text content of the email"
 }
